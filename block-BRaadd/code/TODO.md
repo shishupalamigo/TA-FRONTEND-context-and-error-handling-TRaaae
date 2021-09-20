@@ -1,6 +1,6 @@
 ## Run this app
 
-To ren this app you need to do the following
+To run this app you need to do the following
 
 - Clone the app in this folder: https://github.com/AltCampus/react-hoc
 - Run `npm install`
@@ -10,7 +10,7 @@ To ren this app you need to do the following
 
 [https://q5on1.csb.app/](https://q5on1.csb.app/)
 
-## Refact to use Higher Order Component
+## Refactor to use Higher Order Component
 
 - In this app there are three pages `Articles`, `People` and `Books`
 - All three pages contains list of articles, people and books along with a search functionality
