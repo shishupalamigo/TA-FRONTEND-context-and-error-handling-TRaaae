@@ -1,6 +1,6 @@
 ## Run this app
 
-To ren this app you need to do the following
+To run this app you need to do the following
 
 - Run `npm install`
 - To run this app use `npm start`
